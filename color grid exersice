@@ -1,0 +1,76 @@
+<!DOCTYPE html> 
+<html> 
+<body> 
+    
+.container {
+    height:600px;
+    width:800px;
+    margin:auto;
+    background-color:white;
+}
+    
+.yellow {
+    Width:500px;
+    height: 100px;
+    background-color: yellow;
+    position:relative
+        top.left 
+        
+}
+
+.red {
+    width:400px;
+    height:100px;
+    background-color: red;
+}
+
+.black1 {
+    width:100px;
+    height:100px;
+    background-color: black;
+}
+
+.black2 {
+    width:100px;
+    height:100px;
+    background-color: black;
+}
+
+.magenta {
+    width:300px;
+    height:100px;
+    background-color: magenta;
+}
+
+.purple {
+    width:300px;
+    height:100px;
+    background-color: purple;
+}
+
+.brown {
+    width: 600px;
+    height: 100px;
+    background-color: brown;
+}
+
+.blue {
+    width: 400px;
+    height: 100px;
+    background-color: blue;
+}
+
+.orange {
+    width: 200px;
+    height: 100px;
+    background-color: orange;
+}
+
+.green {
+    width: 400px;
+    height: 100px;
+    background-color: green;
+}
+
+     </body>
+</html>
